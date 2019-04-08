@@ -1,0 +1,19 @@
+{
+    "/start" : "Meu nome e Jay Son, seu novo assistente de tarefas!",
+    "oi" : "Ola, estou aqui para ajudar voce a organizar sua rotina. Insira um evento para comecarmos!",
+	"Ola" : "Ola, estou aqui para ajudar voce a organizar sua rotina. Insira um evento para comecarmos!",
+	"E ae" : "Ola, estou aqui para ajudar voce a organizar sua rotina. Insira um evento para comecarmos!",
+	"E ai" : "Ola, estou aqui para ajudar voce a organizar sua rotina. Insira um evento para comecarmos!", 
+    "Quero salvar um compromisso" : "Qual seria o evento?",
+	"Como funciona?" : "Basta inserir um compromisso ou evento para que eu possa salvar na minha agenda especial e enviar lembretes.",
+	"Quero guardar um evento" : "Insira o nome do evento, data e horario.",
+	"Quero guardar um compromisso" : "Insira o nome do evento, data e horario.",
+	"Quero guardar uma tarefa" : "Insira o nome do evento, data e horario.",
+	"Quais eventos tenho hoje?" : "Irei carrega-los, so um minuto.",
+	"Tenho algum compromisso hoje?" : "Irei verificar em minha agenda especial, aguarde.",
+	"Mostra meus eventos" : "Irei verificar se voce possui algum.",
+	"Tenho alguma coisa hoje?" : "Jay Son ira verificar na agenda, um momento.",
+	"Quais são meus proximos eventos?" : "Irei conferir na agenda!",
+	"Tenho futuros eventos?" : "Vou verificar na minha database.",
+	"Tenho compromisso essa semana?" : "Verificando..."
+}
